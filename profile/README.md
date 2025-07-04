@@ -6,8 +6,8 @@
 ### *Autonomous AI Marketing Agents for Crypto*
 
 [![Website](https://img.shields.io/badge/Website-hypebots.ai-purple?style=for-the-badge)](https://hypebots.ai)
-[![Twitter](https://img.shields.io/badge/Twitter-@hypebotsdotai-blue?style=for-the-badge&logo=twitter)](https://twitter.com/hypebotsdotai)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/hypebots)
+[![Twitter](https://img.shields.io/badge/Twitter-@hypebotsdotai-blue?style=for-the-badge&logo=twitter)](https://x.com/hypebotsdotai)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/hypebotsdotai)
 
 ---
 
