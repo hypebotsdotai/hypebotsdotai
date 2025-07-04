@@ -46,7 +46,7 @@ npm run dev
 
 ### 🔗 **Links**
 - 🌐 **Website**: [hypebots.ai](https://hypebots.ai)
-- 📱 **App**: [app.hypebots.ai](https://hypebots.ai/dashboard)
+- 📱 **App**: [Hypebots Dashboard](https://hypebots.ai/dashboard)
 - 📚 **Docs**: [docs.hypebots.ai](https://docs.hypebots.ai)
 - 💬 **Community**: [Discord](https://discord.gg/hypebotsdotai)
 
