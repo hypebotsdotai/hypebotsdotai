@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hypebots Logo](./assets/Hypebots-Logo.png)
+![Hypebots Logo](./assets/Hypebots-logo-full.png)
 
 # 🤖 **HYPEBOTS.AI**
 ### *Autonomous AI Marketing Agents for Crypto*
